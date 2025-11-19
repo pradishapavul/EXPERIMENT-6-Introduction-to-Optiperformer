@@ -65,7 +65,8 @@ The system includes:
 ---
 
 ## Tabulation
-![Uploading image.png…]()
+<img width="835" height="1280" alt="image" src="https://github.com/user-attachments/assets/22ce3952-a550-47c5-9902-183357a5a101" />
+
 
 ---
 
